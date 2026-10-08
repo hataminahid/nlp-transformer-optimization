@@ -1,0 +1,48 @@
+{
+  "mode": "full",
+  "train_fraction": 1.0,
+  "n_train_examples": 51000,
+  "eval_accuracy": 0.9013157894736842,
+  "eval_macro_f1": 0.8997082627424421,
+  "per_class": {
+    "World": {
+      "precision": 0.8369905956112853,
+      "recall": 0.9836842105263158,
+      "f1-score": 0.9044277764335834,
+      "support": 1900.0
+    },
+    "Sports": {
+      "precision": 0.9781021897810219,
+      "recall": 0.9873684210526316,
+      "f1-score": 0.9827134625458355,
+      "support": 1900.0
+    },
+    "Business": {
+      "precision": 0.8653846153846154,
+      "recall": 0.8763157894736842,
+      "f1-score": 0.87081589958159,
+      "support": 1900.0
+    },
+    "Sci/Tech": {
+      "precision": 0.9442622950819672,
+      "recall": 0.7578947368421053,
+      "f1-score": 0.8408759124087591,
+      "support": 1900.0
+    },
+    "accuracy": 0.9013157894736842,
+    "macro avg": {
+      "precision": 0.9061849239647224,
+      "recall": 0.9013157894736842,
+      "f1-score": 0.8997082627424421,
+      "support": 7600.0
+    },
+    "weighted avg": {
+      "precision": 0.9061849239647224,
+      "recall": 0.9013157894736842,
+      "f1-score": 0.899708262742442,
+      "support": 7600.0
+    }
+  },
+  "trainable_params": 66956548,
+  "total_params": 66956548
+}
