@@ -1,4 +1,4 @@
-AG News — Fine-tuned Encoder vs. Classical Baseline
+# AG News — Fine-tuned Encoder vs. Classical Baseline
 Contents
 ag_news_project.py — the complete pipeline code (the only file you need to run)
 requirements.txt — pinned package versions
